@@ -44,8 +44,8 @@ https://cosinfo.asia.edu.tw/cosinfo/system/COS/showExcel.aspx?rptname=showword&T
 
 1. 克隆倉庫：
 ```bash
-git clone https://github.com/zisunny104/koilisu-kobeu.git
-cd koilisu-kobeu
+git clone https://github.com/zisunny104/kobeu.git
+cd kobeu
 ```
 
 2. 配置網頁伺服器
