@@ -42,7 +42,7 @@ https://cosinfo.asia.edu.tw/cosinfo/system/COS/showExcel.aspx?rptname=showword&T
 
 ### 獨立使用
 
-1. 克隆倉庫：
+1. Clone repo：
 ```bash
 git clone https://github.com/zisunny104/kobeu.git
 cd kobeu
@@ -54,7 +54,7 @@ cd kobeu
 
 ### 與 KoiLiSu 開利手整合
 
-1. 將此倉庫放置在 `koilisu/apps/kobeu/` 目錄
+1. 將此 repo 放置在 `koilisu/apps/kobeu/` 目錄
 2. 透過 `https://toka.dev/koilisu/kobeu` 造訪
 
 ## 版本歷史
