@@ -4,12 +4,12 @@
 
 ## 介紹
 
-KoiLiSu KoBeU（課表下載器）是專為亞洲大學學生設計的課表下載工具，支援 PDF 和 Excel 兩種格式的批量下載。
+KoiLiSu KoBeU（課表下載器）是專為亞洲大學學生設計的課表下載工具，支援 PDF 和 Excel 兩種格式的批次下載。
 
 ## 特色
 
 ✅ **雙格式支援**：PDF 和 Excel 課表  
-✅ **批量下載**：支援多學號同時處理  
+✅ **批次下載**：支援多學號同時處理  
 ✅ **學年期設定**：靈活設定學年期  
 ✅ **現代化介面**：基於 Tocas UI 5.0.3  
 ✅ **深淺色主題**：支援主題切換  
@@ -52,7 +52,7 @@ cd kobeu
 
 3. 直接訪問 `index.php`
 
-### 與 KoiLiSu Framework 整合
+### 與 KoiLiSu 開利手整合
 
 1. 將此倉庫放置在 `koilisu/apps/kobeu/` 目錄
 2. 透過 `https://toka.dev/koilisu/kobeu` 造訪
@@ -66,7 +66,7 @@ cd kobeu
 - 增強主題切換功能
 
 ### v1.6.x
-- 支援批量下載
+- 支援批次下載
 - Excel 格式支援
 - 現代化介面升級
 
