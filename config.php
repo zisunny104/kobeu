@@ -5,5 +5,5 @@ return [
     'version' => '1.7.1',
     'author' => 'Tokas(Xiang-zi Xie)',
     'status' => 'archived',
-    'tags' => ['學務', '下載', 'VPN']
+    'tags' => ['教務', '下載', 'VPN']
 ];
