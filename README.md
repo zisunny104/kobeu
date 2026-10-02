@@ -17,6 +17,8 @@ KoiLiSu KoBeU（課表下載器）是專為亞洲大學學生設計的課表下�
 
 ## 使用方法
 
+直接使用：[網頁工具](https://toka.dev/koilisu/kobeu)。
+
 1. 設定學年期（例如：1141）
 2. 輸入學號（支援多個，用逗號或空格分隔）
 3. 系統自動驗證學號格式（9位數字）
@@ -38,24 +40,6 @@ https://cosinfo.asia.edu.tw/cosinfo/system/Print/asycoslessonrpt.asp?smtr={學�
 https://cosinfo.asia.edu.tw/cosinfo/system/COS/showExcel.aspx?rptname=showword&Tname={學號}&smtr={學年期}&deptno=&sqlstr=exec roomclass_v2_sp '{學年期}','{學號}','std','','',''
 ```
 
-## 安裝
-
-### 獨立使用
-
-1. Clone repo：
-```bash
-git clone https://github.com/zisunny104/kobeu.git
-cd kobeu
-```
-
-2. 設定網頁伺服器
-
-3. 直接訪問 `index.php`
-
-### 與 KoiLiSu 開利手整合
-
-1. 將此 repo 放置在 `koilisu/apps/kobeu/` 目錄
-2. 透過 `https://toka.dev/koilisu/kobeu` 造訪
 
 ## 版本歷史
 
