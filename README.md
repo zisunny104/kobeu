@@ -1,10 +1,10 @@
-# KoiLiSu KoBeU - 課表下載器
+# KoiLiSu KoBeU - 課表下載工具
 
 > 亞洲大學學生課表下載工具
 
 ## 介紹
 
-KoiLiSu KoBeU（課表下載器）是專為亞洲大學學生設計的課表下載工具，支援 PDF 和 Excel 兩種格式的批次下載。
+KoiLiSu KoBeU 是專為亞洲大學學生設計的課表下載工具，支援 PDF 和 Excel 兩種格式的批次下載。
 
 ## 特色
 
